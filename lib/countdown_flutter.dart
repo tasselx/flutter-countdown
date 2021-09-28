@@ -1,5 +1,4 @@
 import 'dart:async';
-
 import 'package:countdown_flutter/utils.dart';
 import 'package:flutter/material.dart';
 
